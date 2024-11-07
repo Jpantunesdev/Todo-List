@@ -27,3 +27,33 @@ Este é um projeto de lista de tarefas interativa (To-Do List) desenvolvido com 
 3. Comece a adicionar tarefas à lista.
 4. Use os botões para editar, remover ou marcar tarefas como concluídas.
 5. Use o campo de pesquisa para filtrar tarefas e o seletor de cor para mudar o fundo da página.
+
+___
+
+English Version
+
+## Features
+
+- **Add Tasks**: Users can add new tasks to the list.
+- **Edit Tasks**: Tasks can be edited after they are created.
+- **Remove Tasks**: Users can remove tasks from the list.
+- **Mark as Completed**: Completed tasks change their style and are highlighted.
+- **Search Tasks**: Users can search for tasks by title.
+- **Filter Tasks**: The project allows filtering tasks by "All", "Completed", or "To Do".
+- **Change Background Color**: Users can choose a background color for the page and completed tasks.
+- **Data Persistence**: All data (tasks, completion status, and background color) is stored in `localStorage`, ensuring information is retained even after reloading the page.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome (for icons)
+
+## How to Use
+
+1. Clone the repository or download the files.
+2. Open the `index.html` file in your browser.
+3. Start adding tasks to the list.
+4. Use the buttons to edit, remove, or mark tasks as completed.
+5. Use the search field to filter tasks, and the color selector to change the page background.
